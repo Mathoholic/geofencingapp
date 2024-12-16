@@ -1,2 +1,2 @@
 # geofencingapp
-ReactiveAPP which triggers Notification as per Geofencing events
+React Native APP which triggers Notification as per Geofencing events
